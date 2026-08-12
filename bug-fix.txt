@@ -1,0 +1,2 @@
+Urgent Bug Fix
+Fixed appointment validation issue.
